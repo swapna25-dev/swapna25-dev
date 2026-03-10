@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi , I'm Swapna
 
-<!--
-**swapna25-dev/swapna25-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ CSE Student
+ Interested in Software Development and Data Analysis
 
-Here are some ideas to get you started:
+ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- SQL
+- NumPy
+- Pandas
+- Matplotlib
+
+ Currently Learning
+
+- Data Analysis
+- Machine Learning
+- Building real-world projects
+
+ Career Goal
+
+My goal is to become a Software Engineer and build useful applications that solve real-world problems.
+
+ Projects
+
+I will upload my projects here regularly.
+
+ Contact
+
+Email: adaviswapna23@gmail.com
